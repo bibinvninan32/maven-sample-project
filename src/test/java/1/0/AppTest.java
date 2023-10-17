@@ -1,4 +1,4 @@
-package 1.0;
+package com.mycompany.app;
 
 import static org.junit.Assert.assertTrue;
 
@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( True );
+        assertTrue( true );
     }
 }
